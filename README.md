@@ -7,5 +7,5 @@ I made this with the intention of using a USB arduino to control a 12V 3A soleno
   
 Currently untested
   
-![image](https://github.com/kbd0/solenoid_driver_external/assets/108237598/f542b40e-d608-4c76-b242-0a60054a40a2)
-![image](https://github.com/kbd0/solenoid_driver_external/assets/108237598/70799bbe-50e8-48a3-9b57-c76da19374bb)
+![image](https://github.com/kbd0/solenoid_driver_external/assets/108237598/1dc83013-6718-4279-a676-d5a32f55aa42)
+![image](https://github.com/kbd0/solenoid_driver_external/assets/108237598/a5b237be-9dd9-46b7-9d03-146dd023a6e6)
